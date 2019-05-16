@@ -19,7 +19,7 @@ Le numéro de chaque GPIO peuvent-être retrouvés dans la partie Raspberry PI d
 Sur le Raspberry PI, on indique au terminal la commande :
 
 ```bash
-pip install --user RPi.GPIO 
+pip3 install --user RPi.GPIO 
 ```
 
 Et c'est tout.
@@ -38,16 +38,16 @@ LED = 8
 # (convention qui définit les numéros des GPIO)
 GPIO.setmode(GPIO.BCM) 
 # On initialise le GPIO numéro 8
-GPIO.setup(8) 
+GPIO.setup(LED) 
 
 # On éteint et allume la led 5 fois de suite.
 for loop in range(5): 
     # On allume la LED (plus précisément, on délivre 5 volt au GPIO 8) 
-    GPIO.output(8, GPIO.HIGH) 
+    GPIO.output(LED, GPIO.HIGH) 
     # On fait une pause de 3 secondes
     time.sleep(3)
     # On éteint la LED (plus précisément, on délivre 0 volt au GPIO 8) 
-    GPIO.output(8, GPIO.LOW) 
+    GPIO.output(LED, GPIO.LOW) 
 ```
 
 
