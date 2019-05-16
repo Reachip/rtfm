@@ -29,4 +29,5 @@
 * [Faire un serveur HTTP avec Flask](pratique/faire-un-serveur-http-avec-flask.md)
 * [Faire une interface graphique avec Tkinter](pratique/faire-une-interface-graphique-avec-tkinter.md)
 * [Récupérer et extraire des données HTML](pratique/recuperer-et-extraire-des-donnees-html.md)
+* [Faire un bot Discord](pratique/faire-un-bot-discord.md)
 
