@@ -2,7 +2,6 @@
 
 * [Avant-propos](README.md)
 * [Auteurs et mention](auteurs-et-mention.md)
-* [Ressources](ressources.md)
 
 ## Le langage Python
 
@@ -13,13 +12,12 @@
 * [Conditions et boucles](le-langage-python/conditions-et-boucles.md)
 * [Découper son code](le-langage-python/decouper-son-code.md)
 * [Installer un package avec pip sur Debian](le-langage-python/installer-un-package-avec-pip-sur-debian.md)
-* [Liste, tuple et dictionnaire](le-langage-python/liste-tuple-et-dictionnaire.md)
+* [Ressources](le-langage-python/ressources.md)
 
 ## Notions avancées
 
 * [L’asynchronisme en Python](notions-avancees/lasynchronisme-en-python.md)
 * [Les décorateurs en Python](notions-avancees/les-decorateurs-en-python.md)
-* [L'opérateur splat](notions-avancees/loperateur-splat.md)
 
 ## Raspberry PI avec Python
 
