@@ -28,7 +28,25 @@ Qu'est ce qu'un terminal ? : [https://fr.wikipedia.org/wiki/Terminal\_\(informat
 
 | cat | more |
 | :--- | :--- |
-| Visualiser le texte d'un fichier | Visualier le texte d'un fichier tout en utilisant les flèches bas et haut afin de lire petit à petit les lignes de texte. |
+| Visualiser le texte d'un fichier | Visualiser le texte d'un fichier tout en utilisant les flèches bas et haut afin de lire petit à petit les lignes de texte. |
+
+### Éditer
+
+| nano lenomdufichier | nvim |
+| :--- | :--- |
+| Ouvre un éditeur de texte pour terminal | Ouvre un éditeur de texte pour terminal |
+
+**NOTE:** L'éditeur nano est installé par défaut sur Debian, néanmoins l'apprentissage de l'éditeur nvim \(variante de vim\) est recommandé. On peut l'installer via cette commande : 
+
+```bash
+sudo apt update && sudo apt install neovim
+```
+
+### S'informer sur les interfaces réseau
+
+| ifconfig |
+| :--- |
+| Affiche tout un tas d'informations sur chaque interfaces réseau de la machines. On peut par exemple récupérer l'IP de la machine que l'on manipule. |
 
 ### Récupérer du contenu depuis un serveur HTTP
 
