@@ -1,0 +1,2 @@
+# L'opérateur splat
+

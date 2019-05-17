@@ -45,19 +45,19 @@ Python ne renvoie aucune erreur.
 
 Déclarons une variable : 
 
-```text
+```python
 a = "Une chaîne de caractère" 
 b = 10
 c = 1.5
 ```
 
-On observe que nous n'avons pas besoin de préciser que la variable "a" est une chaîne de caractère, que b est de type int ou que c est de type float.
+On observe que nous n'avons pas besoin de préciser que la variable "a" est une chaîne de caractère, que "b" est de type int ou que "c" est de type float.
 
 L'interpréteur Python le déduira tout seul.
 
 ## Convertir un type en un autre type
 
-Il est très courant de vouloir convertir un type en un autre type en programmation. Tellement que Python nous permet de le faire avec beaucoup de facilité.
+Il est donc très courant de vouloir convertir un type en un autre type en programmation. Tellement que Python nous permet de le faire avec beaucoup de facilité.
 
 L'exemple le plus courant pour un débutant est le fait de vouloir convertir l'entrée clavier de l'utilisateur renvoyer par la fonction input\(\) de type "str" \(chaîne de caractères\) en type "int". 
 
