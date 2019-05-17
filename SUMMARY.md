@@ -21,6 +21,7 @@
 
 ## Raspberry PI avec Python
 
+* [Commandes de base du terminal sous Debian](raspberry-pi-avec-python/commandes-de-base-du-terminal-sous-debian.md)
 * [Le Raspberry PI](raspberry-pi-avec-python/le-raspberry-pi.md)
 * [Le package RPi.GPIO](raspberry-pi-avec-python/le-package-rpi.gpio.md)
 
