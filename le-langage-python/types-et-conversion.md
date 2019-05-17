@@ -1,5 +1,9 @@
 # Types et conversion
 
+{% embed url="https://www.youtube.com/watch?v=sARtk-ltSaM" %}
+
+
+
 Si vous ne savez pas ce qu'est un type : [https://fr.wikiversity.org/wiki/Python/Les\_types\_de\_base](https://fr.wikiversity.org/wiki/Python/Les_types_de_base)
 
 ## Les concepts de typage dynamique et de typage fort

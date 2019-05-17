@@ -1,5 +1,7 @@
 # Installer un package avec pip sur Debian
 
+{% embed url="https://www.youtube.com/watch?v=IhvUhQeQ7Nk" %}
+
 ## Qu'est ce qu'un package Python ? 
 
 Un package est un ensemble de fichier Python qui contiennent un ensemble de fonctions et/ou de classes Python. Il permet d'englober une API. Cette dernière permet d'utiliser des fonctions spécifiques à un besoin. 

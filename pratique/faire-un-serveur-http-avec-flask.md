@@ -1,5 +1,7 @@
 # Faire un serveur HTTP avec Flask
 
+{% embed url="https://www.youtube.com/watch?v=ltxW1ixL6w4" %}
+
 Pour savoir de quoi on parle : [https://fr.wikipedia.org/wiki/Serveur\_HTTP](https://fr.wikipedia.org/wiki/Serveur_HTTP)
 
 ## Flask 

@@ -1,5 +1,7 @@
 # Le Raspberry PI
 
+{% embed url="https://www.youtube.com/watch?v=xh6iseHWtHc" %}
+
 Le Raspberry PI est un nano-ordinateur. Il est donc programmable et peut ainsi envoyer des "données" \(envoyer du courant afin d'allumer une [led](https://fr.wikipedia.org/wiki/Diode_électroluminescente) par exemple\) ou réceptionner des "données" \([réceptionner les données d'un capteur thermique ](https://www.carnetdumaker.net/articles/mesurer-une-temperature-avec-un-capteur-lm35-et-une-carte-arduino-genuino/)par exemple\) tout comme un Arduino. Il est cependant plus "puissant" concernant le processeur et la mémoire vive, pouvant supporter un système d'exploitation ou exécuter des algorithme implémenter dans des langages dit haut-niveau comme le langage Python.
 
 | Alimentation | Documentation | Datasheet |

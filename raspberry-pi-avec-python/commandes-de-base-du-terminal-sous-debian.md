@@ -1,5 +1,7 @@
 # Commandes de base du terminal sous Debian
 
+{% embed url="https://www.youtube.com/watch?v=IlVwh-thoak" %}
+
 _**Qu'est ce que Debian ?**_ : [https://www.debian.org/index.fr.html](https://www.debian.org/index.fr.html)
 
 _**Qu'est ce qu'un terminal ? :**_ [https://fr.wikipedia.org/wiki/Terminal\_\(informatique\)](https://fr.wikipedia.org/wiki/Terminal_%28informatique%29)
@@ -54,5 +56,7 @@ sudo apt update && sudo apt install neovim
 | :--- |
 | Récupère un fichier HTML ou autre d'une URL HTTP donné. |
 
-###  
+##  Exemple
+
+
 
