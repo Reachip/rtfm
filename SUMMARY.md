@@ -2,6 +2,7 @@
 
 * [Avant-propos](README.md)
 * [Auteurs et mention](auteurs-et-mention.md)
+* [Liste de projets à faire en fonction des acquis](liste-de-projets-a-faire-en-fonction-des-acquis.md)
 
 ## Le langage Python
 

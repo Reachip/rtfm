@@ -6,7 +6,7 @@ Pour savoir de quoi on parle : [https://fr.wikipedia.org/wiki/Serveur\_HTTP](htt
 
 ## Flask 
 
-Flask est considéré comme un "micro-framework" Python. Il se veut minimaliste et simple mais offrant toutes les fonctionnalitées afin de développer unh serveur web de qualité. 
+Flask est considéré comme un "micro-framework" Python. Il se veut minimaliste et simple mais offrant toutes les fonctionnalités afin de développer un serveur web de qualité. 
 
 ## Première impression 
 

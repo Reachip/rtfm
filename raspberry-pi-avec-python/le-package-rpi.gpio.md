@@ -8,9 +8,9 @@ Facile et indispensable pour un projet embarqué pour le Rasoberry PI, le packag
 
 ![Les GPIO sont ces vieux batons affreux tout en haut du Raspberry](../.gitbook/assets/raspeberry-pi-3-b-plus_048517a8fc3655104ecd437aa38d9511.jpg)
 
-## A quoi servent les GPIO ?
+## À quoi servent les GPIO ?
 
-A envoyer ou réceptionner un courant éléctrique, c'est tout. C'est l'équivalent des PIN qu'on retrouve sur la célébre Arduino. On peut y brancher des LEDS \(avec des résistances bien-sûr ...\), un capteur, un autre Raspberry et même un chat. 
+À envoyer ou réceptionner un courant électrique, c'est tout. C'est l'équivalent des PIN qu'on retrouve sur la célèbre Arduino. On peut y brancher des LEDS \(avec des résistances bien-sûr ...\), un capteur, un autre Raspberry et même un chat. 
 
 Le numéro de chaque GPIO peuvent-être retrouvés dans la partie Raspberry PI du gitbook.
 
@@ -26,7 +26,7 @@ Et c'est tout.
 
 ## RPi.GPIO par l'exemple 
 
-Comme dit précdemment, se servir des GPIO avec cette API n'est pas du tout compliqué. Voici un exemple relativement complet : 
+Comme dit précédemment, se servir des GPIO avec cette API n'est pas du tout compliqué. Voici un exemple relativement complet : 
 
 ```python
 # On souhaite allumer une LED branché au GPIO numéro 8
