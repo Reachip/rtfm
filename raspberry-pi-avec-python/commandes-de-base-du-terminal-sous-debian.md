@@ -58,5 +58,7 @@ sudo apt update && sudo apt install neovim
 
 ##  Exemple
 
+![](../.gitbook/assets/ezgif.com-video-to-gif.gif)
+
 
 
