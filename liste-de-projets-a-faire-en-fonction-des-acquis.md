@@ -31,6 +31,7 @@ Ces projets nécessitent plus de recherches, des bases sur l'interpréteur de co
 ### Raspberry PI
 
 * **Projet Jukebox :** L'utilisateur doit pouvoir transférer ses musique sur un Raspberry PI depuis une page web. Il pourra mettre en pause, lire la musique suivante, la musique précédente depuis le Raspberry PI via plusieurs boutons physiques. 
+* **Un jeu du pendu en réseau :** Les utilisateurs pourront s'inscrire afin de jouer en réseau avec plusieurs aitres joueurs au jeu du pendu. Leurs scores pourront être consultés.
 
 
 
