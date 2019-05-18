@@ -27,5 +27,19 @@ def index():
 app.run(host="0.0.0.0") # On "lance" le serveur
 ```
 
+## Exemple 
 
+![](../.gitbook/assets/ezgif.com-video-to-gif-1.gif)
+
+### Pourquoi http://localhost:5000 ?
+
+Décortiquons l'adresse : 
+
+| http:// | localhost | :5000 |
+| :--- | :--- | :--- |
+| Indique que l'on souhaite utiliser le protocole http | Indique l'on souhaite communiquer avec sa propre machine en réseau | Indique que l'on souhaite communiquer via le port 5000 |
+
+_**Plus d'infos concernant "localhost" ici :**_ [https://fr.wikipedia.org/wiki/Localhost](https://fr.wikipedia.org/wiki/Localhost)
+
+_**Plus d'infos  concernant les ports ici :**_ [https://fr.wikipedia.org/wiki/Port\_\(logiciel](https://fr.wikipedia.org/wiki/Port_%28logiciel%29)\)
 
