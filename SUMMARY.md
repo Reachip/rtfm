@@ -11,6 +11,7 @@
 * [Types et conversion](le-langage-python/types-et-conversion.md)
 * [Les fonctions](le-langage-python/les-fonctions.md)
 * [Conditions et boucles](le-langage-python/conditions-et-boucles.md)
+* [Listes, tuples et dictionnaires](le-langage-python/listes-tuples-et-dictionnaires.md)
 * [Découper son code](le-langage-python/decouper-son-code.md)
 * [Installer un package avec pip sur Debian](le-langage-python/installer-un-package-avec-pip-sur-debian.md)
 * [Ressources](le-langage-python/ressources.md)
